@@ -1,0 +1,10 @@
+left:
+  type: photo
+  image: pattern-1.jpg
+right:
+  type: text
+  title: Morning
+  text: |
+    Hanoi wakes slowly between old streets and new movement.
+  vertical: center
+  horizontal: left

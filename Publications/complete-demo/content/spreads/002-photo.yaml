@@ -1,0 +1,10 @@
+left:
+  type: photo
+  image: pattern-1.jpg
+  title: Color of Morning
+  caption-text: An abstract study in warm light and quiet streets.
+right:
+  type: photo
+  image: pattern-2.jpg
+  title: Blue Hour
+  caption-text: A fictional visual note inspired by coastal Vietnam.

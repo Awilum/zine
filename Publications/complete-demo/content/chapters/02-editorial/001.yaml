@@ -1,0 +1,14 @@
+left:
+  type: photo-text
+  image: pattern-7.jpg
+  title: Photo + Text
+  text: |
+    Image and writing can share the same visual field without competing for attention.
+  textPosition: bottom
+right:
+  type: text-photo
+  image: pattern-8.jpg
+  title: Text + Photo
+  text: |
+    The same idea can be reversed to change the rhythm of a spread.
+  textPosition: right

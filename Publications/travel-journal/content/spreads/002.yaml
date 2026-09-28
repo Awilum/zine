@@ -1,0 +1,10 @@
+left:
+  type: text
+  title: Day 01
+  text: |
+    The first morning begins with rain. Nothing needs to happen yet. The city is enough.
+  vertical: center
+  horizontal: left
+right:
+  type: photo
+  image: pattern-1.jpg

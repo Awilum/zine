@@ -1,0 +1,14 @@
+left:
+  type: text
+  title: Notes from the Road
+  text: |
+    Vietnam rewards attention. A morning market can become a study of rhythm, color, gesture, and space. This fictional passage exists only to demonstrate long-form text composition in ZINE.
+  vertical: center
+  horizontal: left
+right:
+  type: text
+  title: A Small Map
+  text: |
+    Begin with a street, follow the shade, stop when the light changes. The best route is often the one that leaves room for curiosity.
+  vertical: bottom
+  horizontal: right

@@ -1,0 +1,10 @@
+left:
+  type: photo-text
+  image: pattern-5.jpg
+  title: Da Nang
+  text: |
+    Give the coastline time. A simple walk can be the whole itinerary.
+  textPosition: right
+right:
+  type: quote
+  text: “The useful map is the one that leaves space for discovery.”

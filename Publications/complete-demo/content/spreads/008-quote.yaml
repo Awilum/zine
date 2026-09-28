@@ -1,0 +1,10 @@
+left:
+  type: quote
+  text: “Leave enough silence for a place to introduce itself.”
+  vertical: center
+  horizontal: center
+right:
+  type: quote
+  text: “A good journey changes the questions before it changes the answers.”
+  vertical: bottom
+  horizontal: right

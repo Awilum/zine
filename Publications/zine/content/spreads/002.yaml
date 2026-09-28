@@ -1,0 +1,7 @@
+left:
+  type: photo
+  image: pattern-1.jpg
+  title: Heat
+right:
+  type: quote
+  text: “The city changes color before it changes direction.”

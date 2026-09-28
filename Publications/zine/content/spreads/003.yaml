@@ -1,0 +1,11 @@
+left:
+  type: photo-text
+  image: pattern-2.jpg
+  title: Street Rhythm
+  text: |
+    Motorbikes, umbrellas, shadows, and open doors form a moving composition.
+  textPosition: bottom
+right:
+  type: photo
+  image: pattern-3.jpg
+  title: After Rain

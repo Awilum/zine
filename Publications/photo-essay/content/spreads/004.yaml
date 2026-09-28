@@ -1,0 +1,10 @@
+left:
+  type: photos-2
+  images:
+    - pattern-3.jpg
+    - pattern-4.jpg
+right:
+  type: photos-2
+  images:
+    - pattern-5.jpg
+    - pattern-6.jpg

@@ -1,0 +1,7 @@
+left:
+  type: text
+  title: Colophon
+  text: |
+    Designed as a spread-first publication.
+right:
+  type: blank

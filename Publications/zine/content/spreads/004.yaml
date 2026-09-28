@@ -1,0 +1,10 @@
+left:
+  type: photos-2
+  images:
+    - pattern-4.jpg
+    - pattern-5.jpg
+right:
+  type: text
+  title: Field Notes
+  text: |
+    A short fictional note about looking slowly, noticing edges, and allowing a journey to remain unfinished.

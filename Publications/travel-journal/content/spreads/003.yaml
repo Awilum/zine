@@ -1,0 +1,10 @@
+left:
+  type: quote
+  text: “Some days are made of weather, coffee, and waiting.”
+right:
+  type: photo-text
+  image: pattern-2.jpg
+  title: Day 04
+  text: |
+    By the fourth day, familiar streets start to feel like a private alphabet.
+  textPosition: bottom

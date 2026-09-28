@@ -1,0 +1,10 @@
+left:
+  type: photo
+  image: pattern-1.jpg
+right:
+  type: text
+  title: Looking
+  text: |
+    Photography begins before the shutter: with attention, patience, and the decision to stay with an ordinary scene.
+  vertical: top
+  horizontal: left

@@ -1,0 +1,12 @@
+left:
+  type: text
+  title: Text
+  text: |
+    This page demonstrates long-form editorial copy. The paragraph is fictional and exists only to show typography, alignment, and page composition.
+  vertical: center
+  horizontal: left
+right:
+  type: quote
+  text: “Leave enough silence for the page to breathe.”
+  vertical: center
+  horizontal: center

@@ -1,0 +1,8 @@
+left:
+  type: photo-text
+  image: pattern-2.jpg
+  title: Streets
+  text: A visual note from the city.
+  textPosition: bottom
+right:
+  type: blank

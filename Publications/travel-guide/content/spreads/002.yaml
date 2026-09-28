@@ -1,0 +1,11 @@
+left:
+  type: text
+  title: Hanoi
+  text: |
+    Start early. Walk without a strict destination. Look for courtyards, small cafés, old facades, and the changing light between buildings.
+  vertical: top
+  horizontal: left
+right:
+  type: photo
+  image: pattern-1.jpg
+  title: Morning Palette

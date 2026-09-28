@@ -1,0 +1,12 @@
+left:
+  type: text
+  title: Spread-first
+  text: |
+    The spread remains the primary compositional unit.
+  vertical: center
+  horizontal: left
+right:
+  type: quote
+  text: A publication is a sequence of intentional spreads.
+  vertical: center
+  horizontal: center

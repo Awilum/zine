@@ -1,0 +1,10 @@
+left:
+  type: photo-text
+  image: pattern-2.jpg
+  title: Color as Memory
+  text: |
+    A palette can carry a mood long after the location has disappeared from view.
+  textPosition: left
+right:
+  type: quote
+  text: “Look twice. The second look is where the story starts.”

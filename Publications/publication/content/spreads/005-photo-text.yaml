@@ -1,0 +1,12 @@
+left:
+  type: photo-text
+  image: sample.png
+  title: Image
+  text: A photograph and a short text block.
+  textPosition: bottom
+right:
+  type: text-photo
+  image: sample.png
+  title: Text
+  text: The same spread-first model supports mixed pages.
+  textPosition: top

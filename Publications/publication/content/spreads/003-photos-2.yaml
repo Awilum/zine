@@ -1,0 +1,10 @@
+left:
+  type: photos-2
+  images:
+    - sample.png
+    - sample.png
+right:
+  type: photos-2
+  images:
+    - sample.png
+    - sample.png

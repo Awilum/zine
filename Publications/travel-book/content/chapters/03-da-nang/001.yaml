@@ -1,0 +1,8 @@
+left:
+  type: photo
+  image: pattern-5.jpg
+right:
+  type: quote
+  text: Between sea and city, another rhythm begins.
+  vertical: center
+  horizontal: center

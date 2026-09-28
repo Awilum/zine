@@ -1,0 +1,29 @@
+{
+  "name": "@awilum/zine",
+  "version": "0.1.0",
+  "description": "ZINE is an independent publishing engine for photographers, travelers and visual creators.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "zine": "./src/cli/index.js"
+  },
+  "scripts": {
+    "generate": "node bin/generate.js",
+    "cli": "node src/cli/index.js",
+    "test": "node --test",
+    "test:cli": "node --test tests/cli.test.js",
+    "build:cli": "node scripts/build-cli.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0",
+    "prettier": "^3.9.9"
+  }
+}

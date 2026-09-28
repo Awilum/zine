@@ -1,0 +1,6 @@
+left:
+  type: photo
+  image: sample.png
+right:
+  type: photo
+  image: sample.png

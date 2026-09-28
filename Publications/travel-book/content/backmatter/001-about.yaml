@@ -1,0 +1,7 @@
+left:
+  type: text
+  title: About
+  text: |
+    This travel book was generated with ZINE.
+right:
+  type: blank

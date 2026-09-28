@@ -1,0 +1,13 @@
+left:
+  type: photos-3
+  images:
+    - pattern-2.jpg
+    - pattern-3.jpg
+    - pattern-4.jpg
+right:
+  type: text
+  title: Hoi An
+  text: |
+    Imagine a slow afternoon near the river, with warm walls, paper lantern colors, and long shadows. This is fictional editorial content for demonstration.
+  vertical: center
+  horizontal: left

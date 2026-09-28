@@ -1,0 +1,8 @@
+left:
+  type: title
+  title: Alignment
+  subtitle: Top, center, bottom, left, and right are text-layout controls.
+  vertical: top
+  horizontal: right
+right:
+  type: blank

@@ -1,0 +1,8 @@
+left:
+  type: text
+  title: Departure
+  text: The road continues.
+  vertical: center
+  horizontal: left
+right:
+  type: blank

@@ -1,0 +1,9 @@
+left:
+  type: title
+  title: ZINE
+  subtitle: A complete publishing engine demo
+  author: Sergey Romanenko
+  location: Vietnam
+  year: 2026
+right:
+  type: blank

@@ -1,0 +1,23 @@
+id: vietnam-travel-guide
+type: guide
+metadata:
+  title: A Quiet Guide to Vietnam
+  author: ZINE Demo
+  location: Vietnam
+  year: 2026
+format:
+  paper: a5
+  orientation: portrait
+  margins:
+    top: 18
+    right: 18
+    bottom: 18
+    left: 18
+  bleed: 0
+typography:
+  font: Avenir Next
+pagination:
+  enabled: true
+  position: bottom-center
+contents:
+  enabled: false

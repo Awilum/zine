@@ -1,0 +1,10 @@
+left:
+  type: photo
+  image: pattern-1.jpg
+  title: Photo
+  caption-text: A generated abstract visual.
+right:
+  type: photos-2
+  images:
+    - pattern-2.jpg
+    - pattern-3.jpg

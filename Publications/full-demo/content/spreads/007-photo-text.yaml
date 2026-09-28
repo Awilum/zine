@@ -1,0 +1,16 @@
+left:
+  type: photo-text
+  image: pattern-7.jpg
+  title: Between Places
+  text: |
+    Travel is a sequence of thresholds: hotel doors, ferry decks, narrow lanes, and unfamiliar corners.
+  caption-text: Fictional editorial copy.
+  textPosition: bottom
+right:
+  type: text-photo
+  image: pattern-8.jpg
+  title: Moving North
+  text: |
+    A journey becomes a story when individual moments begin to speak to one another.
+  caption-text: Fictional editorial copy.
+  textPosition: right

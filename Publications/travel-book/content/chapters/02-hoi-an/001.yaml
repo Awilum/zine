@@ -1,0 +1,12 @@
+left:
+  type: photos-2
+  images:
+    - pattern-3.jpg
+    - pattern-4.jpg
+right:
+  type: text
+  title: River
+  text: |
+    The river changes the rhythm of the old town.
+  vertical: center
+  horizontal: left
